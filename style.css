@@ -122,7 +122,7 @@ body{
     padding: 5px 10px;
 }
 
-.nav1 img{
+.nav1 svg{
     width: 30px;
     cursor: pointer;
 }
