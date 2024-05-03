@@ -61,10 +61,13 @@ body{
 
 .logo{
     display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .logo .yt-logo{
     width: 100px;
+    height: 20px;
     cursor: pointer;
 }
 
@@ -173,7 +176,7 @@ body{
 
 .art-1 video{
     width: 345px;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
     margin-top: 30px;
 }
